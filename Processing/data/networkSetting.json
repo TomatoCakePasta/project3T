@@ -1,0 +1,8 @@
+{
+    "broadCastIP": "192.168.1.255",
+    "broadCastPort": 31001,
+    "arduinoRcvPort": 31002,
+    "maxSendIP": "127.0.0.1",
+    "maxSendPort": 31100,
+    "maxRcvPort": 31101
+}
