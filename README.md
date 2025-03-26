@@ -5,7 +5,7 @@ Arduinoを内蔵した立体を傾けることで、遠隔のPCで制御して�
 
 [^*1]: 大学間の結束力強化を目的に、東京音楽大学, 多摩美術大学, 東京電機大学の3大学が  
 体験型アートを協働制作するプロジェクト。音楽, 芸術, 技術を融合して新たな価値創出を試みる  
-今年のテーマは「TS UNAGU」  
+今年のテーマは「TSUNAGU」  
 
 詳しいイベント概要は[こちら](https://www.tokyo-ondai.ac.jp/information/43227.php)  
 展示作品のPR映像は[こちら](https://www.instagram.com/reel/DHa6gJnh3G4/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
