@@ -8,7 +8,8 @@ Arduinoを内蔵した立体を傾けることで、遠隔のPCで制御して�
 今年のテーマは「TSUNAGU」  
 
 詳しいイベント概要は[こちら](https://www.tokyo-ondai.ac.jp/information/43227.php)  
-展示作品のPR映像は[こちら](https://www.instagram.com/reel/DHa6gJnh3G4/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
+展示作品のPR映像は[こちら](https://www.instagram.com/reel/DHa6gJnh3G4/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)  
+アーカイヴ記事は[こちら](https://www.tamabi.ac.jp/news/92445/)
 
 # デモ
 * お客さんは立体を自由に傾けたり揺らしながら作品と関わる
