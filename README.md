@@ -25,7 +25,8 @@ https://github.com/user-attachments/assets/3899bba9-66c7-4516-a5fb-9064c85aa13b
 上記は「ピッチ」の体験例
 
 ![音楽の道_夜](https://github.com/user-attachments/assets/ad9215d0-77c3-42e7-8170-cc3ca1718776)
-夜の展示風景
+夜の展示イメージ
+
 
 # 特徴
 * アートを支える「システム」として技術で貢献 (組み込み, 電気回路, 通信…)
