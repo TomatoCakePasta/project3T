@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/3899bba9-66c7-4516-a5fb-9064c85aa13b
 
 
 
-上記は「ピッチ」の体験例
+上記は「ピッチ」の体験例 (音声をONにして再生してください)  
 
 ![音楽の道_夜](https://github.com/user-attachments/assets/ad9215d0-77c3-42e7-8170-cc3ca1718776)
 夜の展示イメージ
